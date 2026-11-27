@@ -1,0 +1,1 @@
+ALTER TABLE [MuOnline97].[dbo].[Character] ADD TheGift int NOT NULL DEFAULT (0)
